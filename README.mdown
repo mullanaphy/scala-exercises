@@ -1,0 +1,36 @@
+Mullanaphy's Scala Exercises
+=============================================
+
+Just a place to toss all of my exercises from the book 
+[Functional Programming In Scala](http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653).
+You won't find anything very meaningful here as I have crappy
+Scala skills at this point in time.
+
+Requirements
+------------
+
+- Scala 
+
+Submitting bugs and feature requests
+------------------------------------
+
+Please send bugs to me via
+[GitHub](https://github.com/mullanaphy/scala-exercises/issues)
+
+Author
+------
+
+John Mullanaphy - <john@jo.mu> - <http://jo.mu/>
+That's it for now...
+
+License
+-------
+
+Mullanaphy's Scala Exercises is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE -
+see the `LICENSE` file for details
+
+Acknowledgements
+----------------
+
+Nothing
+
